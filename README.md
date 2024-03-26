@@ -1,4 +1,4 @@
-# parse_du_draw
+# Parse du_stats_XXX.txt DL_BLER and draw
 
 online tool => https://dustinchen26.github.io/parse_dlbler_draw
 
